@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=14"
+  },
   "dependencies": {
     "puppeteer-core": "^5.3.1"
   },
